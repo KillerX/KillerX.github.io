@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags - Stuff and Things</title>
+    <title>Tags on Stuff and Things</title>
     <link>https://killerx.github.io/tags/</link>
     <description>Recent content in Tags on Stuff and Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2019, Copyright Matjaz Debelak</copyright>
     
-        <atom:link href="https://killerx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://killerx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
