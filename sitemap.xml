@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/curl-data-from-file/</loc>
+    <loc>https://killerx.github.io/posts/curl-data-from-file/</loc>
     <lastmod>2019-02-10T13:43:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://killerx.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/command-line/</loc>
-    <lastmod>2019-02-10T13:43:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://killerx.github.io/categories/command-line/</loc>
     <lastmod>2019-02-10T13:43:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://killerx.github.io/posts/</loc>
     <lastmod>2019-02-10T13:43:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://killerx.github.io/</loc>
+    <lastmod>2019-02-10T13:43:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://killerx.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
