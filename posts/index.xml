@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - Stuff and Things</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Stuff and Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2019, Copyright Matjaz Debelak</copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 13:43:44 +0100</lastBuildDate>
+    
+        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curl Data From File</title>
+      <link>https://example.com/posts/curl-data-from-file/</link>
+      <pubDate>Sun, 10 Feb 2019 13:43:44 +0100</pubDate>
+      
+      <guid>https://example.com/posts/curl-data-from-file/</guid>
+      <description>CURL - Fill form field from file In case you need to put a fairly large amount of data into a form field using CURL, the normal procedures do not seem to work (at least if GO is on the receiving side).
+Attempting to do curl -X POST -F field=@filename.txt runs and the data is technically sent but it is sent like this:
+00ed: --------------------------6742981c1eec2761 0119: Content-Disposition: form-data; name=&amp;quot;field&amp;quot;; filename=&amp;quot;filename.</description>
+    </item>
+  </channel>
+</rss>
